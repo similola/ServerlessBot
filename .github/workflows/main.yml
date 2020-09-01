@@ -9,7 +9,7 @@ on:
     branches:
     - master
 env:
-  FUNC_APP_NAME: twitterfunc
+  FUNC_APP_NAME: twitterfunction
 
 jobs:
   build-and-deploy:
